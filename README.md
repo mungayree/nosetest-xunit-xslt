@@ -1,5 +1,5 @@
 # nosetest-xunit-xslt
-# this is xslt file used for transformation of xunit xml generated using nosetests
+# this xslt file used for transformation of xunit xml generated using nosetests
 
 
 # add below line to your xml for transformation
